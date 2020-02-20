@@ -20,4 +20,5 @@ for c in plaintext:
     ciphertext += alphabet[index]
   else: 
     print(c + " is not a valid symbol in our alphabet.")
+    cophertext += " "
 print("Hello, " + name + "! Your encrypted message is: " + ciphertext)
