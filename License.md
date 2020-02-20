@@ -1,0 +1,1 @@
+www.wtfpl.net/txt/copying/ This is our license
